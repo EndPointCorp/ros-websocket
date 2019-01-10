@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#1.9 - 2",
-    "roslib": "RobotWebTools/roslibjs#^0.18.0"
+    "roslib": "EndPointCorp/roslibjs#c9ce32babf36a9e475b857b8fd01ab4006d753dc"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
